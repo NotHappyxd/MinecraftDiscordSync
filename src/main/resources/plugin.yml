@@ -1,0 +1,8 @@
+name: MinecraftDiscordSync
+version: ${project.version}
+main: me.happy.minecraftdiscordsync.MinecraftDiscordSync
+authors: [ 0js ]
+description: Sync discord and minecraft account
+commands:
+  sync:
+    description: Sync your minecraft account with discord
