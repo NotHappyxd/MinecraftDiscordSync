@@ -15,7 +15,7 @@ import javax.security.auth.login.LoginException;
 public final class MinecraftDiscordSync extends JavaPlugin {
 
     private SyncManager syncManager;
-    private String token = "NTcwMDU5ODg5NDI3MDg3Mzgy.XL5rpA.FftCGKUQoTwp-vGnhjFlABKTA8k";
+    private String token = "yourtoken";
 
     @Override
     public void onEnable() {
